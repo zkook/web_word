@@ -27,7 +27,6 @@ namespace web_word
         }
         private void Sreach_button_Click(object sender, EventArgs e)
         {
-
             
             listView1.HotTracking = true;
             if (textBox1.Text.Equals(""))
