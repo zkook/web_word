@@ -7,6 +7,7 @@ using System.IO;
 using Newtonsoft.Json.Linq;
 using System.Text.RegularExpressions;
 using System.Net.Sockets;
+using RabbitMQ.Client;
 
 
 namespace web_word
